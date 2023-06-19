@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adhikari2444661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhikari2444661" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prakash singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakash-singh%E2%9A%9B%EF%B8%8F-954304220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash singh" height="30" width="40" /></a>
 <a href="https://fb.com/prakash adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakash adhikari" height="30" width="40" /></a>
 <a href="https://instagram.com/__adhikari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__adhikari__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/code_runner45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_runner45" height="30" width="40" /></a>
