@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **React,Express,Node**
+- 💬 Ask me about **React,Express,Node,GoLang**
 
 - 📫 How to reach me **pa7846665@gmail.com**
 
-- ⚡ Fun fact **I Think I Love To Code**
+- ⚡ Fun fact **I don't give a shit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
