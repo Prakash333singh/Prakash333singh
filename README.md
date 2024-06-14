@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adhikari2444661" target="blank"><img src="https://img.shields.io/twitter/follow/adhikari2444661?logo=twitter&style=for-the-badge" alt="adhikari2444661" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Backend Development **
 
-- 💬 Ask me about **React,Express,Node,GoLang**
+- 💬 Ask me about **React, Express, Node, GoLang**
 
 - 📫 How to reach me **pa7846665@gmail.com**
 
