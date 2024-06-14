@@ -1,6 +1,6 @@
 ![MasterHead img width: 981px;aspect-ratio: auto 981 / 294;height: 294px;](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate BackEnd developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash333singh&label=Profile%20views&color=0e75b6&style=flat" alt="prakash333singh" /> </p>
