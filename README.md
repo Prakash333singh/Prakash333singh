@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **honing my backend skills**
 - 🌱 I'm currently learning **Advanced Backend Development,DevOps**
-- 💬 Ask me about **React, Express, Node, GoLang**
+- 💬 Ask me about **React/NextJs, Express, Node, GoLang**
 - 📫 How to reach me: **pa7846665@gmail.com**
 - ⚡ Fun fact: **I don't give a shit**
 
