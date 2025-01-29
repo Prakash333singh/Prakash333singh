@@ -57,4 +57,4 @@
 </p>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash333singh&theme=algolia" alt="prakash333singh" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash333singh&theme=algolia" alt="prakash333singh" /></p>
