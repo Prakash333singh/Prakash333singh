@@ -58,6 +58,3 @@
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash333singh&theme=algolia" alt="prakash333singh" /></p>
-
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Prakash"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prakash" /></a></p><br><br>
