@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </p>
 <h1 align="center">
-  Holllaa! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Prakash
+  Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Prakash
 </h1>
 
 <h3 align="center">🚀 Crafting Robust Backend Solutions | Problem Solver | Code Artisan 🎯</h3>
