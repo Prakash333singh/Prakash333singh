@@ -1,9 +1,19 @@
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e72ec&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40"/>
 </p>
-<h1 align="center">
-  <!-- Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Prakash -->
-</h1>
+
+<!-- Greeting Section -->
+<!-- <h1 align="center">
+  Hii there! 👋 I'm <span style="color:#0e72ec;">Prakash</span>
+</h1> -->
+
+<!-- Optional Animated Typing (for flair) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E72EC&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+
 
 <h3 align="center">🚀 Crafting Robust Backend Solutions | Problem Solver | Code Artisan 🎯</h3>
 
