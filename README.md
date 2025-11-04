@@ -9,9 +9,14 @@
 </h1> -->
 
 <!-- Optional Animated Typing (for flair) -->
+<!-- Animated Typing Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E72EC&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0E72EC&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+Backend+Developer;Building+Scalable+and+Secure+Systems;Crafting+APIs+with+Precision+and+Performance;Lifelong+Learner+%26+Tech+Innovator" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 
 
