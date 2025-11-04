@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e72ec&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40"/>
 </p>
 <h1 align="center">
-  Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Prakash
+  <!-- Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Prakash -->
 </h1>
 
 <h3 align="center">🚀 Crafting Robust Backend Solutions | Problem Solver | Code Artisan 🎯</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prakash333singh&label=Profile%20views&color=0e75b6&style=flat" alt="prakash333singh" />
-  <a href="https://twitter.com/adhikari2444661" target="blank">
-    <img src="https://img.shields.io/twitter/follow/adhikari2444661?logo=twitter&style=for-the-badge" alt="adhikari2444661" />
-  </a>
+ <a href="https://twitter.com/adhikari2444661" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20%40adhikari2444661-%230072B1.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+</a>
+
 </p>
 
 ---
