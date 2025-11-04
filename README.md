@@ -18,17 +18,28 @@
 </p>
 
 
-
-
 <h3 align="center">🚀 Crafting Robust Backend Solutions | Problem Solver | Code Artisan 🎯</h3>
 
+<!-- Dual Banner Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakash333singh&label=Profile%20views&color=0e75b6&style=flat" alt="prakash333singh" />
- <a href="https://twitter.com/adhikari2444661" target="_blank">
-  <img src="https://img.shields.io/badge/Follow%20%40adhikari2444661-%230072B1.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-</a>
+  <!-- Profile Views -->
+  <a href="#">
+    <img 
+      src="https://komarev.com/ghpvc/?username=prakash333singh&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+      alt="Profile Views" 
+      style="margin-right: 10px;" 
+    />
+  </a>
 
+  <!-- Twitter Follow -->
+  <a href="https://twitter.com/adhikari2444661" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Follow%20%40adhikari2444661-%230072B1.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" 
+      alt="Twitter Follow"
+    />
+  </a>
 </p>
+
 
 ---
 
